@@ -32,19 +32,9 @@ This project presents a dynamic, DAX-powered financial model built in Power BI, 
 
 ## 📸 Screenshots
 
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+![Balance Sheet](Screenshots/Balance Sheet.png)
 ![Cash Flow](Screenshots/cashflow-page.png)
 
-## 📁 File Structure
-
-```
-PowerBI-Financial-Model/
-├── Financial_Model.pbix
-├── DAX_Measures.xlsx
-├── Data_Dictionary.xlsx
-├── Screenshots/
-├── README.md
-```
 
 ## 🔧 How to Use
 
