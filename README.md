@@ -36,7 +36,7 @@ This project presents a dynamic, DAX-powered financial model built in Power BI, 
 ![Dashboard Overview](Screenshots/dashboard-overview.png)
 
 ### Cash Flow View
-![Cash Flow](Screenshots/cashflow-page.png)
+![Cash Flow](Screenshots/CAsh-Flow.png)
 
 ## 🔧 How to Use
 
