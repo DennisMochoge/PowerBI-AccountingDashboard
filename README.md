@@ -32,8 +32,8 @@ This project presents a dynamic, DAX-powered financial model built in Power BI, 
 
 ## 📸 Screenshots
 
-### Dashboard Overview
-![Dashboard Overview](Screenshots/dashboard-overview.png)
+### Profit & Loss Overview
+![Profit & Loss](https://github.com/DennisMochoge/PowerBI-AccountingDashboard/blob/main/Screenshots/Profit%20%26%20Loss.png?raw=true)
 
 ### Cash Flow View
 ![Cash Flow](https://github.com/DennisMochoge/PowerBI-AccountingDashboard/blob/main/Screenshots/CAsh%20Flow.png?raw=true)
