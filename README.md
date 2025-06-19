@@ -45,9 +45,6 @@ This project presents a dynamic, DAX-powered financial model built in Power BI, 
 3. Use the Comparison slicer to toggle periods
 4. Explore calculated cash flows and performance metrics
 
-## 📜 License
-
-MIT License. See `LICENSE` for more information.
 
 ## 👨‍💻 Author
 
