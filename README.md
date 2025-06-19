@@ -14,6 +14,26 @@ This project presents a dynamic, DAX-powered financial model built in Power BI, 
   - Dynamic P&L hierarchies
 - **Custom Display Folders** and readable format strings for user-friendly insights
 
+## 📊 Data Preparation (Power Query)
+
+The raw financial data required extensive preprocessing before modeling. Using **Power Query**, I performed the following transformations:
+
+- **Combined multiple header rows** into a single row to standardize column names.
+- **Removed irrelevant rows** (e.g., metadata, empty or null rows).
+- **Applied M language logic** to:
+  - Rename and promote headers dynamically.
+  - Fill down category fields.
+  - Replace errors and standardize data types.
+- **Merged datasets** using `Append Queries` and `Merge Queries` to bring in budget vs. actual.
+- **Created a custom date table** from scratch using M code, covering:
+  - `Date`
+  - `Year`
+  - `Month`, `MonthNo`
+  - `Quarter`, `Day`
+  - Relationships established to link transactions and budgets for time intelligence functions.
+
+> These transformations were crucial for ensuring a clean and reliable data model for DAX calculations and accurate dashboard visuals.
+
 ## 🧠 Measures Logic Highlight
 
 - `01 Actual`: Calculates running totals per P&L structure
